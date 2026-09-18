@@ -1,35 +1,26 @@
-# Dyadic Learning Analysis — Cooperative Cuisine Study
+# Dyadic Learning Analysis (Cooperative Cuisine Study)
 
 Analyzes gameplay logs from pairs of human participants ("dyads")
 completing a cooperative delivery-style game (Cooperative Cuisine, built on
 the *Overcooked!* task) across 4 kitchen layouts of increasing spatial
-interdependence. The fluid-collaboration framework and metrics used here
-(intertwinement, unit fluidity, pattern dynamics) were introduced by
-Schröder, Heinrich & Kopp (2025) as part of a broader research agenda
-toward fluid human-agent collaboration, but validated on human-human dyad
-data in the same environment — this analysis applies that same framework
-to a separate human-human dataset, testing whether and how well — human
-dyads employ coordination as they gain experience with each other and the
-task. More broadly, this same approach — tracking intertwinement,
-fluidity, and pattern dynamics over the course of a session — could be
-adapted to examine the dynamic process of fluid collaboration across time
-in other *Overcooked!*-style task environments, in collaboration research
-involving either human or artificial agents.
-
-Building on the notion that team members develop task and team knowledge
-through experience, three questions are addressed: (1) whether completion
-rate increases and completion time decreases as dyads progress through a
-session, as they come to mutually anticipate each other's actions; (2)
-whether collision rate — a measure of spatial-temporal coordination —
-decreases as dyads gain task expertise within a session; and (3) whether
-dyads that better employ coordination, indexed both by collision rate and
-by intertwinement/fluidity/pattern dynamics, show correspondingly higher
-completion rates.
+interdependence. Computes order completion and timing, player-avatar
+collision rates, and three collaboration-dynamics metrics (intertwinement,
+unit fluidity, and pattern dynamics), introduced by Schröder, Heinrich &
+Kopp (2025) as part of a broader research agenda toward fluid human-agent
+collaboration, but validated on human-human dyad data in the same
+environment. This analysis applies that same framework to a separate
+human-human dataset. More broadly, this same approach, tracking
+intertwinement, fluidity, and pattern dynamics over the course of a
+session, could be adapted to examine the dynamic process of fluid
+collaboration across time in other *Overcooked!*-style task environments,
+in collaboration research involving either human or artificial agents.
 
 This accompanies the report *"Learning to Collaborate: Performance and
 Coordination Dynamics in Cooperative Cuisine"* (Enes Koyuncu, Bielefeld
 University), which used the same 15-dyad dataset and Models A–D below.
 Models E–G and the Bayesian layer extend that report.
+
+
 
 ## Project structure
 
