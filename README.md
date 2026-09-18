@@ -187,25 +187,9 @@ MATLAB with the Statistics and Machine Learning Toolbox (`fitglme`,
 This repository's code was developed with the assistance of **Claude
 Code** (Anthropic). Specifically:
 
-- The original single-file analysis script (Models A–D) was written for
-  and reported in the accompanying study *"Learning to Collaborate:
-  Performance and Coordination Dynamics in Cooperative Cuisine."*
-- Claude Code was used to restructure that script into this multi-file
-  project, and to extend the analysis with Models E–G (the intertwinement,
-  fluidity, and pattern-dynamics metrics from Schröder et al., 2025) and
-  the Bayesian model-comparison layer (BIC-approximated Bayes factors),
-  built directly from the author's own report and dataset.
-- The formulas and model specifications were checked against the cited
-  source paper (Schröder, Heinrich & Kopp, 2025) and the author's own
-  report at each step; an earlier, incorrect implementation of a
-  win-stay/lose-shift analysis (based on raw order-outcome sequences
-  rather than any formula in the cited paper) was identified during
-  development and replaced with the current, paper-grounded metrics.
-- All analytical decisions — which models to run, which metrics to use,
-  and how to resolve data-availability limitations (e.g. the pattern-
-  dynamics caveat above) — were made and reviewed by the author.
+AI-assisted development
 
-No results in this repository come from running the code against real
-participant data within this AI-assisted session; the code is provided
-as-is for the author to run against their own data.
+This repository's code was developed with the assistance of Claude Code (Anthropic). The original single-file analysis (Models A–D) was written for and reported in the accompanying study "Learning to Collaborate: Performance and Coordination Dynamics in Cooperative Cuisine." Claude Code was used to restructure that script into this multi-file project and to extend the analysis with Models E–G and the Bayesian model-comparison layer, built from the author's own report and dataset, with formulas and model specifications checked against the cited source paper throughout. All analytical decisions were made and reviewed by the author.
+
+
 
