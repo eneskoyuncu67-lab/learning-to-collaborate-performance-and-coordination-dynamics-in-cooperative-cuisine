@@ -2,13 +2,13 @@
 
 Analyzes gameplay logs from pairs of human participants ("dyads")
 completing a cooperative delivery-style game (Cooperative Cuisine, built on
-the *Overcooked!* concept) across 4 kitchen layouts of increasing spatial
+the *Overcooked!* task) across 4 kitchen layouts of increasing spatial
 interdependence. The fluid-collaboration framework and metrics used here
 (intertwinement, unit fluidity, pattern dynamics) were introduced by
 Schröder, Heinrich & Kopp (2025) as part of a broader research agenda
 toward fluid human-agent collaboration, but validated on human-human dyad
 data in the same environment — this analysis applies that same framework
-to a separate human-human dataset, testing whether — and how well — human
+to a separate human-human dataset, testing whether and how well — human
 dyads employ coordination as they gain experience with each other and the
 task. More broadly, this same approach — tracking intertwinement,
 fluidity, and pattern dynamics over the course of a session — could be
