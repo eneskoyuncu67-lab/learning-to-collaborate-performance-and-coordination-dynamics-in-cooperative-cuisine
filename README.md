@@ -6,9 +6,7 @@ the *Overcooked!* task) across 4 kitchen layouts of increasing spatial
 interdependence. Computes order completion and timing, player-avatar
 collision rates, and three collaboration-dynamics metrics (intertwinement,
 unit fluidity, and pattern dynamics), introduced by Schröder, Heinrich &
-Kopp (2025) as part of a broader research agenda toward fluid human-agent
-collaboration, but validated on human-human dyad data in the same
-environment. This analysis applies that same framework to a separate
+Kopp (2025). This analysis applies that same framework to a separate
 human-human dataset. More broadly, this same approach, tracking
 intertwinement, fluidity, and pattern dynamics over the course of a
 session, could be adapted to examine the dynamic process of fluid
