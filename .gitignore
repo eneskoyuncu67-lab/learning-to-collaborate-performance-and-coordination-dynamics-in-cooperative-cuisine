@@ -1,0 +1,12 @@
+data/Gamelogs/
+data/PlayerInteractions/
+*.png
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+sccprj/
+codegen/
+*.mex*
+octave-workspace
