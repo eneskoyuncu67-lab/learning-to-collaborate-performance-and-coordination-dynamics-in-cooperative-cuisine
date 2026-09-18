@@ -16,7 +16,7 @@ in collaboration research involving either human or artificial agents.
 This accompanies the report *"Learning to Collaborate: Performance and
 Coordination Dynamics in Cooperative Cuisine"* (Enes Koyuncu, Bielefeld
 University), which used the same 15-dyad dataset and Models A–D below.
-Models E–G and the Bayesian layer extend that report.
+
 
 
 
