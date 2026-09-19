@@ -178,7 +178,7 @@ Code** (Anthropic). Specifically:
 
 AI-assisted development
 
-This repository's code was developed with the assistance of Claude Code (Anthropic). The original single-file analysis (Models A–D) was written for and reported in the accompanying study "Learning to Collaborate: Performance and Coordination Dynamics in Cooperative Cuisine." Claude Code was used to restructure that script into this multi-file project and to extend the analysis with Models E–G and the Bayesian model-comparison layer. 
+This repository's code was developed with the assistance of Claude Code (Anthropic). The original single-file analysis (Models A–D) was written for and reported in the accompanying the report "Learning to Collaborate: Performance and Coordination Dynamics in Cooperative Cuisine." Claude Code was used to restructure that script into this multi-file project and to extend the analysis with Models E–G and the Bayesian model-comparison layer. 
 
 
 
